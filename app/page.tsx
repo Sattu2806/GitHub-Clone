@@ -11,7 +11,7 @@ import Footer from './components/Footer/Footer';
 export default function Home() {
   
   return (
-    <div className='overflow-hidden '>
+    <div className=' '>
       <div className='relative z-50'>
         <div className='absolute'>
         <Navbar/>
