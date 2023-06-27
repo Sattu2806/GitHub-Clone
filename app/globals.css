@@ -12,6 +12,10 @@ body{
 
 html{  scroll-behavior: smooth;}
 
+::-webkit-scrollbar {
+  width: 0;
+  background: transparent;
+}
 
 @media (min-width: 1024px) {
   .glass {
